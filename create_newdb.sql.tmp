@@ -1,0 +1,2 @@
+create database wikidb_TMP;
+GRANT ALL PRIVILEGES ON wikidb_TMP.* TO 'wikiuser_TMP'@'localhost' identified by 'TMP4db';
